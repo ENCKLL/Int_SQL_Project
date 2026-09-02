@@ -2,7 +2,7 @@
 
 ## Overview
 
-Analysis of customer behavior, retention, and lifetime value for an e-comerce company to improve customer retention and maximize revenue
+Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue
 
 ## Business Questions
 1. **Customer Segmentation:** Who are our most valuable customers ?
@@ -18,7 +18,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-comerce co
  
  - Categorized customers based on total lifetime value (LTV)
  - Assigned customers to High, Mid and Low-value segments.
- - Calcualted key metrics: total revenue
+ - Calculated key metrics: total revenue
 
  💻 Query : [1_customer_segmentation.sql](1_customer_segmentation.sql)
 
@@ -59,7 +59,7 @@ width="50%">
 
 📊 **Key Findings:** 
 - Revenue per customer shows san alarming decreasing trend over time
-- 20222-2024 cohorts are consistently performing worse than earlier cohorts
+- 2022-2024 cohorts are consistently performing worse than earlier cohorts
 - NOTE: Although net revenue is increasings, this is likely due to a larger customer base, which
 is not reflective of customer value
 
@@ -68,7 +68,7 @@ is not reflective of customer value
 - Value extracted from customers in decreasing
 over time and needs further investigation
 - In 2023 we saw a drop in number of customers acquired, which is concerning.
-- With both lowering LTV and decreasing customer acqusition, the company facing a potential
+- With both lowering LTV and decreasing customer acquisition, the company facing a potential
  revenue declie.
 
 
@@ -103,7 +103,7 @@ height: auto;">
 1. **Customer Value Optimization** (Customer Segmentation)
 - Launch VIP program for 12,372 high-value customers (66% revenue)
 - Create personalized upgrade paths for mid-value segment ($66$.6M -> 135.4M opportunity)
-- Design precive-sensitive promotions for low-value segment to increase purchase frequency
+- Design price-sensitive promotions for low-value segment to increase purchase frequency
 
 2. **Cohort Performance Strategy** (Customer Revenue by Cohort)
 - Target 2022-2024 cohorts with personalized re-engagement offers
